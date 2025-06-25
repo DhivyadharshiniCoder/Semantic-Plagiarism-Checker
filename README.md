@@ -18,6 +18,7 @@ This project satisfies:
 - `plagiarism_checker.ipynb` – Main Google Colab notebook
 - `file1.txt`, `file2.txt` – Sample text files to compare
 - `requirements.txt` – Required libraries
+- `README.md` – Project description
 
 ---
 
